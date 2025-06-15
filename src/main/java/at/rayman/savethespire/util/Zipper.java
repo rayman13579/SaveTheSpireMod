@@ -1,6 +1,6 @@
-package at.rayman.saveTheSpire.util;
+package at.rayman.savethespire.util;
 
-import at.rayman.saveTheSpire.Result;
+import at.rayman.savethespire.Result;
 
 import java.io.*;
 import java.nio.file.Files;
@@ -9,7 +9,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 import java.util.zip.ZipOutputStream;
 
-import static at.rayman.saveTheSpire.SaveTheSpire.logger;
+import static at.rayman.savethespire.SaveTheSpire.logger;
 
 public class Zipper {
 

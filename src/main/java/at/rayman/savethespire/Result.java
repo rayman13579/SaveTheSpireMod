@@ -1,4 +1,4 @@
-package at.rayman.saveTheSpire;
+package at.rayman.savethespire;
 
 import java.util.function.Consumer;
 

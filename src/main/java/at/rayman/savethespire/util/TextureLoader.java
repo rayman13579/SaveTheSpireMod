@@ -1,11 +1,11 @@
-package at.rayman.saveTheSpire.util;
+package at.rayman.savethespire.util;
 
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.utils.GdxRuntimeException;
 
 import java.util.HashMap;
 
-import static at.rayman.saveTheSpire.SaveTheSpire.logger;
+import static at.rayman.savethespire.SaveTheSpire.logger;
 
 public class TextureLoader {
     private static final HashMap<String, Texture> textures = new HashMap<>();

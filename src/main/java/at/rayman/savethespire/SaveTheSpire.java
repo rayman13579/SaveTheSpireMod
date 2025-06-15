@@ -1,6 +1,6 @@
-package at.rayman.saveTheSpire;
+package at.rayman.savethespire;
 
-import at.rayman.saveTheSpire.util.*;
+import at.rayman.savethespire.util.*;
 import basemod.BaseMod;
 import basemod.interfaces.PostInitializeSubscriber;
 import com.badlogic.gdx.graphics.Texture;

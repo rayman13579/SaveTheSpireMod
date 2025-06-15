@@ -1,4 +1,4 @@
-package at.rayman.saveTheSpire.util;
+package at.rayman.savethespire.util;
 
 public class GeneralUtils {
 

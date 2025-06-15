@@ -1,4 +1,4 @@
-package at.rayman.saveTheSpire.util;
+package at.rayman.savethespire.util;
 
 public interface Constants {
 
@@ -6,7 +6,7 @@ public interface Constants {
 
     String USER_AGENT = "SaveTheSpirePC";
 
-    String GAME_PATH = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\SlayTheSpire";
+    String GAME_PATH = "G:\\Games\\Steam\\steamapps\\common\\SlayTheSpire";
 
     String RUNS = "runs\\";
 

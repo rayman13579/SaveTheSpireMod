@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>at.rayman</groupId>
+    <groupId>at.rayman.savethespire</groupId>
     <artifactId>SaveTheSpireMod</artifactId>
     <version>1.0.0</version>
 
@@ -14,7 +14,7 @@
         <modID>SaveTheSpire</modID>
         <author>rayman13579</author>
 
-        <steam.windows>C:/Program Files (x86)/steam/steamapps</steam.windows>
+        <steam.windows>G:/Games/Steam/steamapps</steam.windows>
         <steam.mac>${user.home}/Library/Application Support/Steam/steamapps</steam.mac>
         <steam.linux>${user.home}/.local/share/Steam/steamapps</steam.linux>
 

@@ -1,13 +1,13 @@
-package at.rayman.saveTheSpire.util;
+package at.rayman.savethespire.util;
 
-import at.rayman.saveTheSpire.Result;
+import at.rayman.savethespire.Result;
 
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URI;
 import java.net.URL;
 
-import static at.rayman.saveTheSpire.SaveTheSpire.logger;
+import static at.rayman.savethespire.SaveTheSpire.logger;
 
 public class NetworkService {
 

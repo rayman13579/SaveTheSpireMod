@@ -1,12 +1,12 @@
-package at.rayman.saveTheSpire;
+package at.rayman.savethespire;
 
-import at.rayman.saveTheSpire.util.NetworkService;
-import at.rayman.saveTheSpire.util.Zipper;
+import at.rayman.savethespire.util.NetworkService;
+import at.rayman.savethespire.util.Zipper;
 import com.evacipated.cardcrawl.modthespire.lib.SpireInsertPatch;
 import com.evacipated.cardcrawl.modthespire.lib.SpirePatch;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 
-import static at.rayman.saveTheSpire.SaveTheSpire.logger;
+import static at.rayman.savethespire.SaveTheSpire.logger;
 
 @SpirePatch(clz = CardCrawlGame.class, method = "dispose")
 
